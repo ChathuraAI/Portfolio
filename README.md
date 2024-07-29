@@ -1,6 +1,3 @@
-# Portfolio
-Project Profile
-
 # Chathura Galkandage - Projects
 
 
